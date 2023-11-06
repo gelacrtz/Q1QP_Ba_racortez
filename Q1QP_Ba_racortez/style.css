@@ -1,0 +1,198 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+title{
+display: inline;
+font-size: 40px;
+}
+.icon{
+    border: 1px solid rgb(5, 5, 5);
+    height: 4vh;
+    width: 4vh;
+}
+.navbar{
+    border: 1px solid black;
+    width: 100%;
+    padding: 15px;
+    background-color: #fdfaf0;
+    text-align: left;
+}
+.navbar a{
+    width: 100%;
+    background-color:saddlebrown ;
+    color: white;
+    background-color: saddlebrown;
+    border: 1px solid saddlebrown;
+    text-decoration: none;
+    text-size-adjust: 5vh;
+    word-spacing: 10%;
+}
+.navbar div{
+    display: inline;
+}
+.topbar{
+    border: .5px solid rgb(255, 255, 255);
+    height: 5vh;
+    background-color: #fdfaf0;
+}
+#Introduction h1{
+    background-color: #fdfaf0;
+    width: 30vw;
+    display: block;
+    margin-left: 3vw;
+}
+#Introduction h2{
+  margin-left: 3vw;
+  display: block;
+}
+#Introduction p{
+    background-color: #fdfaf0;
+    margin: 50px;
+    width: 80vw;
+    font-size: 25px;
+}
+#Footer{
+    border: 1px solid black;
+    width: 100%;
+    padding: 10px;
+    background-color: #5c3100;
+    text-align: left;
+    color: white;
+    margin-top: 15%;
+}
+#SocialMedia{
+    border: 1px solid white;
+    display: inline;
+    width: 5px;
+    height: 5px;
+    margin-right: 2vw;
+}
+#StudyBackground h1{
+    background-color: wheat;
+    width: 30vw;
+    display: block;
+    margin-left: 3vw;
+    margin-top: 3vw;
+}
+#studybackground h1{
+    background-color: wheat;
+    width: 30vw;
+    display: block;
+    margin-left: 3vw;
+    margin-top: 3vw;
+}
+#StudyBackground p{
+    font-size: 22px;
+    background-color: #fdfaf0;
+    width: 60vw;
+    display: block;
+    margin-top: 2vw;
+    margin-left: 3vw;
+}
+#studybackground p{
+    font-size: 22px;
+    background-color: #fdfaf0;
+    width: 60vw;
+    display: block;
+    margin-left: 3vw;
+    margin-top: 2vw
+}
+#Data h1{
+    background-color: wheat ;
+    width: 30vw;
+    display: block;
+    margin-left: 3vw;
+}
+#Data h2{
+    background-color: wheat;
+    width: 30vw;
+    display: block;
+    margin-left: 3vw;
+}
+#data h1{
+    background-color: wheat;
+    width: 30vw;
+    display: block;
+    margin-left: 3vw;
+}
+#data h2{
+    background-color: wheat;
+    width: 30vw;
+    display: block;
+    margin-left: 3vw;
+}
+.pic1{
+text-align: center;
+background-color: #fdfaf0;
+margin-left: 2vw;
+padding: 5px;
+}
+.pic2{
+text-align: center;
+background-color: #fdfaf0;
+margin-left: 2vw;
+padding: 5px;
+}
+.pic3{
+text-align: center;
+background-color: #fdfaf0;
+margin-left: 2vw;
+padding: 5px;
+}
+.pic4{
+text-align: center;
+background-color: #fdfaf0;
+margin-left: 2vw;
+padding: 5px;
+}
+#References li{
+    margin-left: 240PX;
+    font-size: 25PX;
+}
+#References h1{
+background-color: wheat;
+width: 30vw;
+text-align: center;
+display: block;
+margin-left: 3vw;
+margin-top: 3vw;
+}
+#Researchers h1{
+background-color: wheat;
+width: 30vw;
+text-align: center;
+display: block;
+margin-left: 3vw;
+margin-top: 3vw;
+}
+#Researchers p{
+    font-size: 22px;
+    background-color: #fdfaf0;
+    width: 60vw;
+    display: block;
+    margin-left: 3vw;
+    margin-top: 2vw;
+}
+.pic5{
+    text-align: center;
+    background-color: #fdfaf0;
+    margin-left: 3vw;
+    padding: 5px;  
+}
+.pic6{
+text-align: center;
+background-color: #fdfaf0;
+margin-left: 3vw;
+padding: 5px;
+}
+.pic7{
+display: flex;
+text-align: center;
+background-color: #fdfaf0;
+margin-left: 3vw;
+padding: 5px;
+}
+.contacts p{
+    margin-left: 3vw;
+}
